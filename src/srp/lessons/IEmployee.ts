@@ -1,0 +1,3 @@
+interface IEmployee {
+    NAME: string
+}

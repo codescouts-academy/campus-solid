@@ -1,0 +1,40 @@
+{
+    "name": "solid-courses",
+    "version": "1.0.0",
+    "description": "Solid principles",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc",
+        "test": "jest",
+        "format": "prettier --check .",
+        "format:fix": "prettier --write .",
+        "lint": "eslint .",
+        "lint:fix": "eslint --fix . "
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Frankeo/solid-courses.git"
+    },
+    "keywords": [
+        "solid"
+    ],
+    "author": "Francisco Moreno",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Frankeo/solid-courses/issues"
+    },
+    "homepage": "https://github.com/Frankeo/solid-courses#readme",
+    "devDependencies": {
+        "@types/jest": "^28.1.6",
+        "@types/node": "^18.6.1",
+        "@typescript-eslint/eslint-plugin": "^5.31.0",
+        "@typescript-eslint/parser": "^5.31.0",
+        "eslint": "^8.20.0",
+        "eslint-config-prettier": "^8.5.0",
+        "husky": "^8.0.1",
+        "jest": "^28.1.3",
+        "prettier": "^2.7.1",
+        "ts-jest": "^28.0.7",
+        "typescript": "^4.7.4"
+    }
+}
