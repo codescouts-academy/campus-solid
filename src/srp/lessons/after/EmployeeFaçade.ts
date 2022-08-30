@@ -19,7 +19,7 @@ export class EmployeeFaçade implements IEmployee {
         return this.reporter.reportHours(hours, date)
     }
 
-    public save() {
+    public save(): string {
         return this.saver.save(this)
     }
 }

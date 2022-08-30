@@ -21,7 +21,7 @@ export class Employee implements IEmployee {
         return !(hours <= regularHours)
     }
 
-    public save() {
+    public save(): string {
         return `${this.NAME} SAVED in DB`
     }
 }
