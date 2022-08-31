@@ -1,0 +1,3 @@
+interface IFruit {
+  getColor(): string;
+}
