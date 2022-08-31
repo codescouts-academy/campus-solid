@@ -1,0 +1,3 @@
+interface ISwimmingBird {
+  Swim(): string;
+}
