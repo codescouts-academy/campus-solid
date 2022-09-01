@@ -1,0 +1,3 @@
+interface IFlyingBird {
+  Fly(): string;
+}
