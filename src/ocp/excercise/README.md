@@ -2,7 +2,7 @@
 
 ## Problema
 
-En base a nuestro ejercicio anterior, supong que se desea extender la forma de calcular el indice de impuesto, teniendo en cuenta el dia de la semana, esto es independiente y excluyente del limite por mercado:
+En base a nuestro ejercicio anterior, suponga que se desea extender la forma de calcular el **indice de impuesto**, teniendo en cuenta el dia de la semana, esto es independiente y excluyente del limite por mercado:
 
 - Si el dia es un Sabado o Domingo, los impuestos se seran un 10% del precio.
 

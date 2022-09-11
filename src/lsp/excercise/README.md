@@ -2,7 +2,7 @@
 
 ## Problema
 
-En base a nuestro ejercicio anterior, suponga que se desea imprimir en pantalla el precio actual por mercado.
+En base a nuestro ejercicio anterior, suponga que se desea imprimir en pantalla el **precio actual por mercado**.
 Por lo tanto necesitara variar la forma de *calculo de impuestos*.
 Tenga en cuenta que se desea mostrar la informacion de los productos de 2 formas, segun corresponda:
 
