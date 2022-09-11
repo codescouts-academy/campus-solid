@@ -15,3 +15,4 @@ Nuestro software se encarga de **calcular los impuestos** de los **productos** q
 ### Consejo
 
 Siempre realice tests unitarios para corroborar lo realizado.
+Los productos son usados por multiples Actores, mientras que el calculo de impuestos solo por el departamento de finanzas.
