@@ -2,7 +2,7 @@
     "name": "solid-courses",
     "version": "1.0.0",
     "description": "Solid principles",
-    "main": "index.js",
+    "main": "./build/dip/excercise/main.js",
     "scripts": {
         "build": "tsc",
         "test": "jest",
