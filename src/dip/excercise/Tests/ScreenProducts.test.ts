@@ -1,7 +1,7 @@
-import { Market } from '../../isp/excercise/Market'
-import { PriceProduct } from '../../isp/excercise/PriceProduct'
-import { TaxByLimit } from './TaxByLimit'
-import { TitleProduct } from './TitleProduct'
+import { Market } from '../Core/Market'
+import { PriceProduct } from '../Products/PriceProduct'
+import { TitleProduct } from '../Products/TitleProduct'
+import { TaxByLimit } from '../Taxes/TaxByLimit'
 
 describe('Screen Product by Product Type', () => {
     const getMarketByLimit = () => {
